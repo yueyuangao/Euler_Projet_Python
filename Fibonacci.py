@@ -40,7 +40,7 @@ while Fibonacci_2(i) <= 4000000:
         sum_track=np.append(sum_track, summ)
     i=i+1
 
-print(summ)  # To see the exponention increase
+print(summ)  # sum_track could be used to see the exponential increase
 print(i)
 
 ##########################################################################
